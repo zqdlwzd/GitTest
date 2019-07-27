@@ -1,1 +1,2 @@
 this is master file
+test for merge function
