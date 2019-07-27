@@ -2,3 +2,4 @@ this is master file
 test for merge function
 change origin master
 help
+test pull
